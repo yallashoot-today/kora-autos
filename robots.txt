@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yallashoot-today.github.io/kora-autos/sitemap.xml
